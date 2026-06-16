@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1781612670.37319 "/Users/felixgraff/Documents/Folien_Vortrag/Uni-Ms-EIDF-Info-Vortrag/Latex-Vortrag.tex" "Latex-Vortrag.pdf" "Latex-Vortrag" 1781612672.02795 0
-  "/Users/felixgraff/Documents/Folien_Vortrag/Uni-Ms-EIDF-Info-Vortrag/Latex-Vortrag.tex" 1781612670.16075 1905 d49912f2d7949b826e25505c61b5db1a ""
+["pdflatex"] 1781615665.21074 "/Users/felixgraff/Documents/Folien_Vortrag/Uni-Ms-EIDF-Info-Vortrag/Latex-Vortrag.tex" "Latex-Vortrag.pdf" "Latex-Vortrag" 1781615667.30354 0
+  "/Users/felixgraff/Documents/Folien_Vortrag/Uni-Ms-EIDF-Info-Vortrag/Latex-Vortrag.tex" 1781615662.57779 5111 06d6ef1f298fdcecfc968acddcb53634 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -213,11 +213,14 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767083172 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767083137 3345747 70766c73aff4fad2a5f4d7396b17dbf7 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "Latex-Vortrag.aux" 1781612671.92472 1297 e2ace02ae120201fc59700c942036a0b "pdflatex"
-  "Latex-Vortrag.nav" 1781612671.92643 763 7491ba4b4caa3562c4b23f8609c5476c "pdflatex"
-  "Latex-Vortrag.out" 1781612671.92598 205 2f738698f03dd1baffcea397b41735af "pdflatex"
-  "Latex-Vortrag.tex" 1781612670.16075 1905 d49912f2d7949b826e25505c61b5db1a ""
-  "Latex-Vortrag.toc" 1781612671.92649 66 2f96de679881036ea9f1f21e42a3f106 "pdflatex"
+  "Latex-Vortrag.aux" 1781615667.20013 2428 66f5460fdf3c94519f18dba81d593921 "pdflatex"
+  "Latex-Vortrag.nav" 1781615667.20152 1526 4e389eabc3a1e274adbefc674f1c8173 "pdflatex"
+  "Latex-Vortrag.out" 1781615667.20118 478 2b6322fbdc066f3427c87c147b6870e2 "pdflatex"
+  "Latex-Vortrag.tex" 1781615662.57779 5111 06d6ef1f298fdcecfc968acddcb53634 ""
+  "Latex-Vortrag.toc" 1781615667.20159 145 d90230f2cde75c52cc1db5b568e39b64 "pdflatex"
+  "images/Dia-Bedeutung.png" 1781615583.53984 92701 e79113d6f870c8c1720473a53f68bf60 ""
+  "images/Dia-Nutzung.png" 1781615583.54138 91506 093ea6cc118442a6ad19d6dcf0e5501f ""
+  "images/Verteilung-Aufgaben.png" 1781615583.54343 139468 4613bc0417adb204e30f9788196df7b7 ""
   (generated)
   "Latex-Vortrag.aux"
   "Latex-Vortrag.log"

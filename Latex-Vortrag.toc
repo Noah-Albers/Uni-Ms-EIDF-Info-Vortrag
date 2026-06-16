@@ -1,1 +1,2 @@
 \beamer@sectionintoc {1}{Differenzierung - Was ist das?}{3}{0}{1}
+\beamer@sectionintoc {2}{Differenzierung - Im Kontext von Informatik}{7}{0}{2}
