@@ -78,4 +78,21 @@
 
 
 
+## Schülermeinungen
 
+- Gruppenmitglieder Fragen war hilfreich
+- SuS fehlte teilweise etwas Hilfestellung, da Lehrer sich größtenteils zurückgezogen hat
+- Viel Spaß gemacht + Eigenverantwortliches Arbeiten
+- Unausgewogene Arbeitsverteilung
+- FOMO - Sachen verpassen die wichtig sein könnten.
+- Unklar was überhaupt jetzt neu erlernt wurde
+
+
+zu Tutor:
+
+- Sehr sinnvoll, weil sich mitschüler eher in die Schülerperspektive hineinversetzen können und in "ihrer Sprache" erklären können
+- Viel lernen können
+- Gute SuS als Tutoren können Hilfe geben anstatt sie zu Lösen wenn sie als Tutor agieren und nicht Teil der Gruppe sind
+- Lerneffekt abhänige von Motivation der Gruppe
+- Sicht der Tutoren: eher gernervt von "dummen" Fragen, doppeltes erklären
+- 
