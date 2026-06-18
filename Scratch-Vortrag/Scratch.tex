@@ -19,7 +19,6 @@
 \institute{Uni Münster}
 \date{\today}
 
-
 \usepackage{comment}
 
 \newcommand{\teacher}[1]{\textcolor{red}{#1}}
@@ -30,60 +29,71 @@
 %\newcommand{\teacher}[1]{}
 \newcommand{\ppause}{}
 
-
 \newcommand{\lowlight}[1]{\textcolor{gray}{#1}}
-
-
 
 \begin{document}
 	
-	% Title slide
 	\frame{\titlepage}
-	
 	
 	\begin{frame}{Übersicht}
 		\tableofcontents
 	\end{frame}
-
+	
+	\section{Was ist Scratch}	
 	\begin{frame}{Was ist Scratch?}{Die Idee dahinter}
 		\begin{itemize}
-			\item Blockbasiertes Interface zum erstellen kleiner Stories
-			\item 2007 bei MIT Media Lab entwickelt
-			\item 2019 Übergang in die "Scratch Foundation" (non profit)
+			\ppause
+			\item Blockbasiertes Interface zum Erstellen kleiner Stories
+			\ppause
+			\item 2007 am MIT Media Lab entwickelt
+			\ppause
+			\item 2019 Übergang zur Scratch Foundation (Non-Profit)
+			\ppause
 			\item Verschiedene Möglichkeiten:
 			\begin{itemize}
-				\item Vorgemalte Charaktere, Landschaften, Sounds, Grafikten etc.
+				\ppause
+				\item Vorgefertigte Charaktere, Landschaften, Sounds, Grafiken etc.
+				\ppause
 				\item Eigene Elemente bzw. Bilder hochladen
-				\item In Scratch selber erstellen/bearbeiten
+				\ppause
+				\item In Scratch selbst erstellen und bearbeiten
 			\end{itemize}
+			\ppause
 			\item Entwickelt für Kinder
 			\begin{itemize}
-				\item Programmieren spielerisch erlernen 
+				\ppause
+				\item Programmieren spielerisch erlernen
+				\ppause
 				\item Mathematische Elemente visualisieren
+				\ppause
 				\item Ideen freien Lauf lassen
 			\end{itemize}
 		\end{itemize}
-		
 	\end{frame}
-
-
+	
+	\section{Unterrichtsszenario - Beispiel}
 	\begin{frame}{Unterrichtsszenario}{Rahmenbedingungen}
 		\begin{itemize}
+			\ppause
 			\item Fach: Informatik
+				\ppause
 			\item Klasse: Sekundarstufe I (5-6)
-			\item Thema: Sequenzielles Abarbeiten (Algorithmik) \\
+				\ppause
+			\item Thema: sequenzielles Abarbeiten (Algorithmik)\\
 			(Durch faded worked examples)
+				\ppause
 			\item Ziele:
 			\begin{itemize}
-				\item SuS wissen, dass Programme Schrittweise ablaufen 
+				\ppause
+				\item SuS wissen, dass Programme schrittweise ablaufen
+				\ppause
 				\item SuS wissen, wie einfache Schleifen funktionieren
+				\ppause
 				\item SuS können blockbasierte Programme lesen/modifizieren/erstellen
 			\end{itemize}
 		\end{itemize}
-		
 	\end{frame}
-
-
+	
 	\begin{frame}{Scratch-Beispiel}{Aufgabe (Use-Modify-Create)}
 		\begin{columns}
 			\column{0.5\textwidth}
@@ -93,7 +103,7 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\linewidth]{bilda/Example-strong.png}
-				\caption{Startpunk (Starke SuS)}
+				\caption{Startpunkt (starke SuS)}
 			\end{figure}
 			
 			\column{0.5\textwidth}
@@ -103,14 +113,11 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\linewidth]{bilda/Example-weak.png}
-				\caption{Startpunk (Schwache SuS)}
+				\caption{Startpunkt (schwache SuS)}
 			\end{figure}
 			
 		\end{columns}
-		
 	\end{frame}
-	
-	
 	
 	\begin{frame}[t]{Scratch-Beispiel}{Teil 1 - Use (Use-Modify-Create)}
 		\begin{columns}
@@ -121,7 +128,7 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=.8\linewidth]{bilda/ReadModify-strong.png}
-				\caption{Use (Starke SuS)}
+				\caption{Use (starke SuS)}
 			\end{figure}
 			
 			\column{0.5\textwidth}
@@ -131,18 +138,17 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=.8\linewidth]{bilda/ReadModify-weak.png}
-				\caption{Use (Schwache SuS)}
+				\caption{Use (schwache SuS)}
 			\end{figure}
 			
 		\end{columns}
 		
 		\vspace{.4cm}
 		
+				\ppause
 		\underline{\textcolor{structure}{Arbeitsauftrag}}:\\
-		Beschreibe was der Elf macht. Wann läuft er? Wann stoppt er?
-		
+		Beschreibe, was der Elf macht. Wann läuft er? Wann stoppt er?
 	\end{frame}
-	
 	
 	\begin{frame}[t]{Scratch-Beispiel}{Teil 2 - Modify (Use-Modify-Create)}
 		\begin{columns}
@@ -153,7 +159,7 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=.8\linewidth]{bilda/ReadModify-strong.png}
-				\caption{Modify (Starke SuS)}
+				\caption{Modify (starke SuS)}
 			\end{figure}
 			
 			\column{0.5\textwidth}
@@ -163,26 +169,26 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=.8\linewidth]{bilda/ReadModify-weak.png}
-				\caption{Modify (Schwache SuS)}
+				\caption{Modify (schwache SuS)}
 			\end{figure}
 			
 		\end{columns}
 		
 		\vspace{.4cm}
 		
+		\ppause
+		
 		\underline{\textcolor{structure}{Arbeitsauftrag}}:\\
-		Was musst du ändern damit der Elf sein Ziel schneller erreicht?
+		Was musst du ändern, damit der Elf sein Ziel schneller erreicht?
 		
-		(Für Starke SuS) wie kann sich der Elf schneller drehen?
-		
+		(Für starke SuS:) Wie kann sich der Elf schneller drehen?
 	\end{frame}
 	
-	
-	
 	\begin{frame}{Scratch-Beispiel}{Teil 3 - Create (Use-Modify-Create)}
+		\ppause
 		
 		\underline{\textcolor{structure}{Arbeitsauftrag}}:\\
-		Der Stein soll sich nun aus dem Weg bewegen sobald der Elf diesen erreicht. Wie kannst du das umsetzen? Klicke auf den Stein und erstelle ein eigenes Program um dies zu machen.		
+		Der Stein soll sich nun aus dem Weg bewegen, sobald der Elf diesen erreicht. Wie kannst du das umsetzen? Klicke auf den Stein und erstelle ein eigenes Programm, um dies zu machen.
 	\end{frame}
 	
 	\begin{frame}{Scratch-Beispiel}{Teil 3 - Create (Use-Modify-Create)}
@@ -196,7 +202,7 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=.8\linewidth]{bilda/Make-strong.png}
-				\caption{Create (Starke SuS)}
+				\caption{Create (starke SuS)}
 			\end{figure}
 			
 			\column{0.5\textwidth}
@@ -206,32 +212,33 @@
 			\begin{figure}
 				\centering
 				\includegraphics[width=.8\linewidth]{bilda/Make-weak.png}
-				\caption{Create (Schwache SuS)}
+				\caption{Create (schwache SuS)}
 			\end{figure}
 			
 		\end{columns}
 	\end{frame}
 	
 	\begin{frame}{Weitere Differenzierungsmöglichkeiten}
-		
 		\begin{itemize}
-			\item Gruppenarbeit (Gemeinsammes lösen in möglichst homogene Gruppen)
-			\item Einzelarbeit für sehr schnelle
-			\item Untersützen von Schwachen durch Tutoren
-			\item Ergänzende Aufgaben für Starke/Schwache und ggf. interessierte
+					\ppause
+			\item Gruppenarbeit (gemeinsames Lösen in möglichst homogenen Gruppen)
+					\ppause
+			\item Einzelarbeit für sehr Schnelle
+					\ppause
+			\item Unterstützen von Schwachen durch Tutoren
+					\ppause
+			\item Ergänzende Aufgaben für Starke/Schwache und ggf. Interessierte
 		\end{itemize}
-
 	\end{frame}
 	
 	\begin{frame}{Quellen}
 		\begin{itemize}
-			\item Scratch Foundation – “Scratch” (Offizielle Webseite) \url{https://www.scratchfoundation.org/} (abgerufen am 18 Juni 2026)
+			\item Scratch Foundation - “Scratch” (offizielle Webseite) \url{https://www.scratchfoundation.org/} (abgerufen am 18. Juni 2026)
 			
-			\item MIT Scratch – “Scratch Project Editor” \url{https://scratch.mit.edu/projects/editor/} (abgerufen am 18 Juni 2026)
+			\item MIT Scratch - “Scratch Project Editor” \url{https://scratch.mit.edu/projects/editor/} (abgerufen am 18. Juni 2026)
 			
-			\item Peer Stechert – “Unterstützungsstrategien beim Programmieren \& PRIMM / Informatikdidaktik kurz gefasst Teil 24” (YouTube video) \url{https://www.youtube.com/watch?v=DhapB4YWaK0} (abgerufen am 18 Juni 2026)
+			\item Peer Stechert - “Unterstützungsstrategien beim Programmieren \& PRIMM / Informatikdidaktik kurz gefasst Teil 24” (YouTube-Video) \url{https://www.youtube.com/watch?v=DhapB4YWaK0} (abgerufen am 18. Juni 2026)
 		\end{itemize}
-		
 	\end{frame}
 	
 \end{document}
